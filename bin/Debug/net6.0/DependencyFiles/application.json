@@ -1,0 +1,29 @@
+{
+  "GUID": "",
+  "ThemeColor": "",
+  "FontColor": "",
+  "Status": "ACTIVE",
+  "ApplicationTitle": "",
+  "DefaultComponent": "",
+  "DefaultConnection": "null",
+  "DefaultDomain": null,
+  "ApplicationName": "",
+  "PreFetchComponents": "",
+  "SessionValidationComponent": "",
+  "QuickProcessJs_Url": "",
+  "QuickProcessCss_Url": "",
+  "QuickProcessLoadergif_Url": "",
+  "Default_FormWrapperMarkup": "",
+  "Default_ListWrapperMarkup": "",
+  "Debug": true,
+  "EnableAuthentication": false,
+  "EnableAuthorisation": false,
+  "AuthorisationDetails": {
+    "Authorisation_Query": "",
+    "ConnectionName": "",
+    "Resources": []
+  },
+  "Connections": [],
+  "ExternalDomains": [],
+  "ComponentList": []
+}

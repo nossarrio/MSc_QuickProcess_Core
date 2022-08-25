@@ -1,0 +1,52 @@
+﻿1.  How to show a component using js and dom element
+2.  How to hide a component using js and dom element
+3.  How to navigate to component using js and dom element
+4.  How to bind list using js and dom element
+5.  How to execute Query API using js
+6.  How to execute Web API using js
+7.  How to perform cascade filter using dom element
+8.  How to filter datasource using querystring, input element and literal values
+9.  How to show and hide progress bar
+10. How to show notification messages
+11. How to validate form input using js and html atribute
+12. How to define server fields and default value
+13. How to bind form field to datasource fields
+14. How to get current session details using c#
+15. How to access current session id in sql
+16. How to access current user id in sql
+17. How to access current tenant id in sql
+18. How to access search text and search value in sql
+19. How to encrypt/decrpt parameters and return values
+20. How to use repeater element and its callback
+21. How to refresh input list using js
+22. How to get current component in view
+23. How to download a component in background
+24. How to create global variables in ext js
+25. How to design table list component
+26. How to design a card list component
+27. How to design a form component
+28. How to design dropdown component
+30. How to design a HTML component
+31. How to design a droplist component
+32. How to design a QueryAPI component
+33. How to design a WebAPI component
+34. How to bind input list to WebAPI
+35. How to include create nested components
+36. How to check value is empty usin js
+37. How to secure application menu using js
+38. How to show component in modal popup
+39. How to show form component in view/edit mode
+40. How to set theme and colour using js and css
+--------------------------------------------------------------------------------
+
+QuickProcess is a low-code platform that makes building web application easy through the use of it's seven types of components
+
+1.  Table List Component: This type of component can be used create a UI that displays records in a tabular manner
+    A Table List component can display records from database objects like tables,views, custom sql query or web api, and display the result data in tabular form with searching, pagination, sorting and export capability
+
+2.  Card List Component: This component is very similar to the Table List component, but displays data in card form such that each record is represented as a bootstrap card
+
+3.  Dropdown List Component: This type of component is used to bind an input field to database tables, views, custom sql query and web api, to display records as a list of options.
+    The Dropdown component can be bound to HTML select input to display list of record options. It can also be bound to QuickProcess custom inputs like Autocomplete and CheckList
+
+4. 

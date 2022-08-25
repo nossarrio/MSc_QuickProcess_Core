@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuickProcess_Core</id>
+    <version>1.0.0</version>
+    <authors>Nosa Amadasun</authors>
+    <description>Package Description</description>
+    <copyright>MIT</copyright>
+    <tags>LowCode, RAD, WorkFlow</tags>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Azure.Storage.Blobs" version="12.10.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Caching" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="WindowsAzure.Storage" version="9.3.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/DependencyFiles/application.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_Core\bin\Release\net6.0\QuickProcess_Core.dll" target="lib\net6.0\QuickProcess_Core.dll" />
+    <file src="C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_Core\DependencyFiles\application.json" target="content\DependencyFiles\application.json" />
+    <file src="C:\Users\Nosa.Amadasun\source\repos\QuickProcess\QuickProcess_Core\DependencyFiles\application.json" target="contentFiles\any\net6.0\DependencyFiles\application.json" />
+  </files>
+</package>
